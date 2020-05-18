@@ -474,7 +474,7 @@ color: grey;
 }
 
 .cate1 {
-  background-image: url(https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F04%2FUntitled-design-11.png&signature=c4cbafafc4a7f63c44f4f4c46ea178ca);
+  background-image: linear-gradient(transparent, black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/FB-Avatar-Featured-796x416.jpg);
   width: auto;
   max-width: 25rem;
   height: 17.25rem;
@@ -485,6 +485,34 @@ color: grey;
   justify-content: flex-end;
   padding: 1em;
   color: white;
+}
+
+#cate11{
+  background-image: linear-gradient(transparent, black), url(https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F05%2Fheader-image-pixel-4-motion-sense-soli-radar-chip.png&signature=6b7c29e8885105bc3de9c7da646a3436);
+}
+
+#cate12{
+  background-image: linear-gradient(transparent, black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Amazon-.jpg);
+}
+
+#cate13{
+  background-image: linear-gradient(transparent, black), url(https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F04%2FUntitled-design-11.png&signature=c4cbafafc4a7f63c44f4f4c46ea178ca);
+}
+
+#cate14{
+  background-image: linear-gradient(transparent, black), url(https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F05%2Fimage5.png&signature=c9eddd7ee43e09e923e6ac4c2062e5d8);
+}
+
+#cate15{
+  background-image: linear-gradient(transparent, black), url(https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=b75eca35f42accc83310a4fa4e562088);
+}
+
+#cate16{
+  background-image: linear-gradient(transparent, black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Facebook-Discover-796x419.jpg);
+}
+
+#cate17{
+  background-image: linear-gradient(transparent, black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/twitch-e1491600114230-796x398.jpg);
 }
 
 .cate1 > * {
@@ -543,12 +571,40 @@ color: grey;
 }
 
 .cate22 {
-  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Netflix-Featured_1-796x417.jpg);
+  background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Netflix-Featured_1-796x417.jpg");
   background-position: center;
   width: 30%;
   background-size: cover;
   background-repeat: no-repeat;
   float: right;
+}
+
+#cate221{
+  background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Snag_16d2a6.png");
+}
+
+#cate222{
+  background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-20.jpg");
+}
+
+#cate223{
+  background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Screenshot-2020-04-22-at-16.14.16.png");
+}
+
+#cate224{
+  background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/greta-thunberg.png");
+}
+
+#cate225{
+  background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/acceleration2.png");
+}
+
+#cate226{
+  background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/JioMart-WhatsApp-Ordering-hed.jpg");
+}
+
+#cate227{
+  background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/ai-generator-dictioanry-words.png");
 }
 
 .cate3{
@@ -615,6 +671,35 @@ color: grey;
   max-width: 16.875rem;
   margin: 0 1em;
   margin-bottom: 0.5rem;
+}
+
+#latest_deals2111 {
+  background-image: url("https://cdnp2.stackassets.com/d594ce9cf4a4803bc3da91a08093c297a427dff3/store/opt/596/447/73b27338255acb17ebb1d9ab98a9e256963daa8b91f9c6369e593f351750/product_38113_product_shots1.jpg");
+}
+
+#latest_deals2112 {
+  background-image: url("https://cdnp3.stackassets.com/a64672808f4e17f58029fc6cf485e7e37792a0f6/store/opt/596/447/5b48b4db0a6da7f51fc0aa4f48e15c43ebdf8c9f371b76fbadb2cb2cdd92/product_38387_product_shots1.jpg");
+}
+
+#latest_deals2113 {
+  background-size: 27em;
+  background-image: url("https://cdnp0.stackassets.com/d4a07778705cdfd8e5463ee6e44fe99dfcbedb95/store/opt/596/298/18d0eb860c5f1606fe84bb22612c73202e945c1bdda3700f21c858918aea/product_38265_product_shot_wide.jpg");
+}
+
+#latest_deals2114 {
+  background-image: url("https://cdnp3.stackassets.com/a64672808f4e17f58029fc6cf485e7e37792a0f6/store/opt/596/447/5b48b4db0a6da7f51fc0aa4f48e15c43ebdf8c9f371b76fbadb2cb2cdd92/product_38387_product_shots1.jpg");
+}
+
+#latest_deals2115 {
+  background-image: url("https://cdnp1.stackassets.com/3a055300b1a053cd9bff1985dfd060b0b9624543/store/a7378e29e1901a6290de13d3f48ceb7325a29fd0c1c26f15bc43620334ac/sale_28312_primary_image.jpg");
+}
+
+#latest_deals2116 {
+  background-image: url("https://cdnp0.stackassets.com/0bc52ec20821dd425405d554f00fbe3eb1d0edb3/store/6af357ba6259b50eba6ed561ec5528c885ca489941bebca3038f9232dcda/sale_27875_primary_image.jpg");
+}
+
+#latest_deals2117 {
+  background-image: url("https://cdnp1.stackassets.com/4c6357549bbe196eac7a2a550f3cf2a380f39e44/store/7d5851d962ea8a62a7e9939f0efebc686b69d83821b63060d3109048021b/sale_19399_primary_image.jpg");
 }
 
 .latest_deals212, .latest_deals213 {
