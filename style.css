@@ -242,6 +242,129 @@
 
 
 /* juanstyle */
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 1 auto;
+  margin: 3em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.categories11 {
+  padding: 1em;
+  width: auto;
+  max-width: 400px;
+}
+
+.categories11 header {
+  color: #f42;
+  font-weight: bolder;
+  padding: 1em 0;
+}
+
+.categories11 header:hover {
+  color: black;
+  cursor: pointer;
+  font-weight: bolder;
+}
+
+.cate1 {
+  background-image: url(https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F04%2FUntitled-design-11.png&signature=c4cbafafc4a7f63c44f4f4c46ea178ca);
+  width: auto;
+  max-width: 400px;
+  height: 276px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1em;
+  color: white;
+}
+
+.cate1 > * {
+  padding: 4px 0;
+}
+
+.cate11 {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.cate12 {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.cate12:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.cate13{
+  font-size: 13px;
+  color: #9D9D9D;
+  cursor: pointer;
+}
+
+.cate2 {
+  position: relative;
+  height: 100px;
+  padding-left: 1em;
+  display: flex;
+  margin-top: 0.1em;
+}
+
+.cate21 {
+  width: 70%;
+  padding: 1em 0;
+  color: #f42;
+}
+
+.cate211 {
+  font-size: 15px;
+  font-weight: lighter;
+  padding-bottom: 0.3em;
+}
+
+.cate212 {
+  font-size: 14px;
+  font-weight: bolder;
+}
+
+.cate212:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.cate22 {
+  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Netflix-Featured_1-796x417.jpg);
+  background-position: center;
+  width: 30%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  float: right;
+}
+
+.cate3{
+  padding: 1em 0 0 1em;
+}
+
+.cate31 {
+  color: #f42;
+  font-size: 14px;
+  border-bottom: 1px solid rgb(160, 159, 159);
+  padding-bottom: 1em;
+}
+
+.cate31 a {
+  text-decoration: none;
+  color: #9D9D9D;
+}
+
+.cate31 a:hover {
+  color: black;
+}
 
 .latest_deals1 {
   font-family: Arial, Helvetica, sans-serif;
