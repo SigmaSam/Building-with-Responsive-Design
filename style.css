@@ -27,34 +27,23 @@
   width: 100%;
 }
 
-@media (max-width: 1024px) {
-  .hide_tnw {
-    display: block;
-    padding: 1.5em 1.2em;
-    width: 10em;
-    background-color: #f42;
-  }
+.buttonhide {
+  display: none;
 }
 
-@media (max-width: 1214px) {
-  #neural {
-    display: none;
-  }
-}
 .hide_tnw {
   display: unset;
 }
 
 .first__nav {
   display: flex;
+  flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
   background-color: black;
   height: 2rem;
   padding-left: 0.3125rem;
   padding-right: 0.625rem;
-  margin
-
 }
 
 .first__nav a {
@@ -73,16 +62,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0 0.625rem;
+  margin: 0 ;
   background-color: white;
   height: 3rem;
 }
 
-@media (max-width:768px){
-  #about{
-    display: none;
-  }
-}
 
 .second__nav a {
   text-decoration: none;
@@ -98,7 +82,7 @@
   opacity: 1;
 }
 
-.second__nav button {
+.buttonsearch {
   background-color: white;
   color: grey;
   border: none;
@@ -732,4 +716,93 @@ color: grey;
 .footer21 {
   color: white;
   cursor: pointer;
+}
+
+@media (max-width: 1024px) {
+  .hide_tnw {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10em;
+    background-color: #f42;
+    padding: 1em;
+
+  }
+}
+
+@media (max-width: 1214px) {
+  #neural,
+  #last__funding_hide {
+    display: none;
+  }
+  
+}
+
+@media (max-width:820px){
+  #about{
+    display: none;
+  }
+
+  .wrap_nav2 {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .hide_tnw {
+    height: 3em;
+  }
+
+  .buttonhide {
+    display: block;
+    background-color: white;
+    color: #f42;
+    border: none;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.25rem;
+  }
+
+  .buttonsearch {
+    border-top:  0.0625rem grey solid;
+  }
+
+  .third__nav {
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .face__articles {
+    grid-template-columns: 1fr;
+    height: 30rem;
+    font-size: 20px;
+  }
+
+  .face__one{
+    height: 10rem;
+    grid-column: 1/2;
+    grid-row: 1;
+    width: 100%;
+  }
+  
+  .face__two {
+    height: 10rem;
+    grid-row: 2;
+    width: 100%;
+    grid-column: 1/2;
+  }
+  
+  .face__three {
+    height: 10rem;
+    grid-column: 1/2;
+    grid-row: 3;
+    width: 100%;
+  }
+
+  .face__logo{
+    display: none;
+  }
 }
