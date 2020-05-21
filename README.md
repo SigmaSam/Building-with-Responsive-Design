@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[Live Demo Link] (https://rawcdn.githack.com/SigmaSam/Building-with-Responsive-Design-Samuel-Juan/f49fa110b5115a7ca02139dd883880e176a1ab00/index.html).
+[Live Demo Link](https://rawcdn.githack.com/SigmaSam/Building-with-Responsive-Design-Samuel-Juan/f49fa110b5115a7ca02139dd883880e176a1ab00/index.html)
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Open a web browser
 
-### Visit Repository (https://github.com/SigmaSam/Building-with-Responsive-Design-Samuel-Juan/tree/BuildingResponsive)
+### [Visit Repository](https://github.com/SigmaSam/Building-with-Responsive-Design-Samuel-Juan/tree/BuildingResponsive)
 
 ### Download Repository
 
