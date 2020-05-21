@@ -31,12 +31,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-?? **Samuel Isaac Almao Herrera**
+**Samuel Isaac Almao Herrera**
 
 - Github [@SigmaSam] (https://github.com/SigmaSam)
 
 
-?? **Juan Jacobo Hincapie Montes**
+**Juan Jacobo Hincapie Montes**
 
 - Gmail: [@gmail](jacobo12.montes@gmail.com)
 - Github: [@githubhandle](https://github.com/jacobo12montes)
