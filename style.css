@@ -671,7 +671,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* width: 100%; */
   list-style: none;
 }
 
@@ -753,6 +752,7 @@
   .about {
     display: none;
   }
+
   .first__nav {
     display: none;
   }
