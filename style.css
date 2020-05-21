@@ -759,6 +759,11 @@ color: grey;
     display: none;
   }
 
+  .nav__bar {
+    width: 100%;
+    margin-top: -0.1rem
+  }
+
   .wrap_nav1 {
     z-index: 1;
   }
@@ -766,7 +771,8 @@ color: grey;
   .wrap_nav2 {
     display: flex;
     justify-content: flex-end;
-    z-index: 1;
+    background-color: white;
+    z-index: 100;
   }
 
   .hide_tnw {
@@ -994,5 +1000,6 @@ color: grey;
     grid-column: 2;
     grid-row: 2;
     font-size: 12px;
+  }
   }
 }
