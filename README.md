@@ -13,7 +13,7 @@
 - CSS,
 - FONTAWESOME
 
-## Live Demo
+### Live Demo
 
 [Live Demo Link](https://rawcdn.githack.com/SigmaSam/Building-with-Responsive-Design-Samuel-Juan/f49fa110b5115a7ca02139dd883880e176a1ab00/index.html)
 
@@ -58,6 +58,6 @@ Give a ?? if you like this project!
 - Inspiration
 - etc
 
-## ?? License
+## License
 
 This project is [MIT](lic.url) licensed.
