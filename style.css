@@ -12,8 +12,7 @@
   flex-direction: column;
   justify-content: center;
   align-content: center;
-  max-width: 74.5rem;
-  width: 90%;
+  width: 100%;
 }
 
 .nav__bar {
@@ -141,21 +140,21 @@
 .face__one {
   grid-column: 1;
   grid-row: 1/3;
-  background: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/money-funding-series-a-gq-796x417.png);
+  background: linear-gradient(to bottom, rgba(255, 60, 0, 0.404), rgb(0, 0, 0)), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/money-funding-series-a-gq-796x417.png);
   background-size: cover;
 }
 
 .face__two {
   grid-column: 2;
   grid-row: 1;
-  background: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/global-boardroom.jpg);
+  background: linear-gradient(to bottom, transparent, black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/global-boardroom.jpg);
   background-size: contain;
 }
 
 .face__three {
   grid-column: 2;
   grid-row: 2;
-  background: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/09/Google-Play-Music-India-796x398.jpg);
+  background: linear-gradient(to bottom, transparent, black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/09/Google-Play-Music-India-796x398.jpg);
   background-size: contain;
 }
 
@@ -165,6 +164,13 @@
   height: 7rem;
   max-height: 10rem;
   margin-bottom: 10rem;
+}
+
+.face__logo2 {
+  float: right;
+  padding: 0.8em;
+      color: white;
+    font-family: sans-serif;
 }
 
 .face__insigh {
@@ -232,9 +238,10 @@
 }
 
 .lastest__title {
+  display: flex;
+  padding-left: 1em;
   margin-top: 5rem;
   margin-bottom: 2rem;
-  margin-left: 1.4rem;
 }
 
 .lastest__title a:hover {
@@ -244,10 +251,8 @@
 .lastest__news {
   display: flex;
   flex-flow: wrap;
-  justify-content: left;
   align-items: center;
-  min-width: 46.25rem;
-  margin-left: 1rem;
+  width: 100%;
 }
 
 .l__news {
@@ -255,17 +260,17 @@
   flex-flow: wrap;
   flex-direction: column;
   align-content: center;
-  width: 18rem;
-  height: 22rem;
+  width: 21.3rem;
+  margin: 1em;
 }
 
 .l__img {
-  width: 16.875rem;
+  width: 90%;
   height: 8.4375rem;
 }
 
 .l__link {
-  width: 15.8125rem;
+  width: 90%;
   height: 2.4375rem;
   text-decoration: none;
   font-size: 1rem;
@@ -326,16 +331,11 @@
 
 .last__container {
   display: flex;
-  justify-content: space-between;
   width: 100%;
 }
 
 .last__funding {
-  margin-top: 0.5rem;
-  margin-bottom: 2rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  height: 16.9375rem;
+  margin: 1em;
   display: inline-grid;
   grid-template-rows: 2.5rem 3.5625rem 5.125rem 4.25rem;
 }
@@ -415,9 +415,9 @@
 
 .categories {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: left;
   font-family: Arial, Helvetica, sans-serif;
+  flex-flow:  wrap;
+  width: 100%;
 }
 
 .cate__tittle {
@@ -434,8 +434,12 @@
 }
 
 .categories11 {
-  padding: 1em;
-  max-width: 24.125rem;
+  margin: 1em;
+  width: auto;
+  max-width: 29em;
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 auto;
 }
 
 .categories11 a:hover {
@@ -446,8 +450,7 @@
 
 .cate1 {
   background-image: linear-gradient(transparent, black), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/FB-Avatar-Featured-796x416.jpg);
-  width: auto;
-  max-width: 25rem;
+  width: 100%;
   height: 17.25rem;
   background-size: cover;
   background-position: center;
@@ -515,14 +518,13 @@
 .cate2 {
   position: relative;
   height: 6.25rem;
-  padding-left: 1em;
   display: flex;
   margin-top: 0.1em;
 }
 
 .cate21 {
   width: 70%;
-  padding: 1em 0;
+  padding: 1em;
   color: #f42;
 }
 
@@ -598,9 +600,8 @@
 .latest_deals {
   display: flex;
   flex-flow: wrap;
-  justify-content: space-between;
   font-family: Arial, Helvetica, sans-serif;
-  margin-left: 1.4rem;
+  margin: 1em;
 }
 
 .latest_deals1 {
@@ -608,7 +609,7 @@
   display: inline-flex;
   justify-content: space-between;
   align-items: baseline;
-  margin-left: 1.4rem;
+  margin: 0 1em;
   margin-bottom: 2rem;
 }
 
@@ -624,19 +625,22 @@
   color: #f42;
 }
 
+.latest_deals21 {
+  width: 22.7em;
+}
+
 .latest_deals211 {
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  height: 12.5625rem;
-  width: 16.875rem;
-  margin-bottom: 0.5rem;
+  padding: 1em;
 }
 
 .latest_deals212,
 .latest_deals213 {
   width: auto;
-  max-width: 16.125rem;
+  max-width: 20em;
+  padding: 0 1em;
 }
 
 .latest_deals212 {
@@ -803,9 +807,7 @@
 }
 
 @media (max-width: 768px) {
-  .main__flex {
-    width: 98%;
-  }
+  
 
   .face__articles {
     grid-template-columns: 1fr;
@@ -867,7 +869,7 @@
   }
 
   .lastest__title {
-    margin-left: 1rem;
+    padding-left: 1em;
   }
 
   .lastest__news {
@@ -963,6 +965,14 @@
 
   .cate1 {
     max-width: 40rem;
+  }
+
+  .cate21 {
+    width: 80%;
+  }
+
+  .cate22 {
+    width: 20%;
   }
 
   .latest_deals {
