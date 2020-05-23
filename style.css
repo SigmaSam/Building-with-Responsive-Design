@@ -169,8 +169,8 @@
 .face__logo2 {
   float: right;
   padding: 0.8em;
-      color: white;
-    font-family: sans-serif;
+  color: white;
+  font-family: sans-serif;
 }
 
 .face__insigh {
@@ -416,7 +416,7 @@
 .categories {
   display: flex;
   font-family: Arial, Helvetica, sans-serif;
-  flex-flow:  wrap;
+  flex-flow: wrap;
   width: 100%;
 }
 
@@ -807,8 +807,6 @@
 }
 
 @media (max-width: 768px) {
-  
-
   .face__articles {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr;
