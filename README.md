@@ -9,9 +9,8 @@
 
 ## Built With
 
-- HTML,
-- CSS,
-- FONTAWESOME
+- HTML
+- CSS
 
 ### Live Demo
 
