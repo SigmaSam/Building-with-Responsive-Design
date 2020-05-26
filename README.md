@@ -3,8 +3,8 @@
 
  > We replicated the front page of www.thenextweb.com including their responsiveness.
  ![screenshot](Images/screenshot1.png)
+ ![screenshot](Images/screenshot3.png)
  ![screenshot](Images/screenshot2.png)
-
  Additional description about the project and its features.
 
 ## Built With
@@ -12,7 +12,7 @@
 - HTML
 - CSS
 
-### Live Demo
+## Live Demo
 
 [Live Demo Link](https://rawcdn.githack.com/SigmaSam/Building-with-Responsive-Design-Samuel-Juan/f49fa110b5115a7ca02139dd883880e176a1ab00/index.html)
 
@@ -20,13 +20,13 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Open a web browser
+- Open a web browser
 
-### [Visit Repository](https://github.com/SigmaSam/Building-with-Responsive-Design-Samuel-Juan/tree/BuildingResponsive)
+- [Visit Repository](https://github.com/SigmaSam/Building-with-Responsive-Design-Samuel-Juan/tree/BuildingResponsive)
 
-### Download Repository
+- Download Repository
 
-### Run index.html file (into folder html)
+- Run index.html file (into folder html)
 
 ## Authors
 
