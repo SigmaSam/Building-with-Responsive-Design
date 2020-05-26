@@ -3,8 +3,8 @@
 
  > We replicated the front page of www.thenextweb.com including their responsiveness.
  ![screenshot](Images/screenshot1.png)
+ ![screenshot](Images/screenshot3.png)
  ![screenshot](Images/screenshot2.png)
-
  Additional description about the project and its features.
 
 ## Built With
